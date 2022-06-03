@@ -1,0 +1,11 @@
+{
+  "extension" : {
+    "identifier" : "panic.JavaScript",
+    "name" : "JavaScript"
+  },
+  "extensionTemplate" : "chromeDebug",
+  "extensionValues" : {
+    "launchPath" : "\/Applications\/Google Chrome Dev.app",
+    "stopOnEntry" : true
+  }
+}
