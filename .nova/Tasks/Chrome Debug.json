@@ -5,7 +5,6 @@
   },
   "extensionTemplate" : "chromeDebug",
   "extensionValues" : {
-    "launchPath" : "\/Applications\/Google Chrome Dev.app",
     "stopOnEntry" : true
   }
 }
